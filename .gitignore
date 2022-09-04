@@ -1,0 +1,4 @@
+# Project exclude paths
+/.gradle/
+/Smart Calculator/task/build/
+/Topics/Regexps in use/Splitting with spaces/build/
